@@ -7,7 +7,6 @@ while stop==False:
     n3=int(input("Ultimo numero: "))
     print("La media aritmetica es: "+str((n1+n2+n3)/3))
     correcto=False
-    
     while correcto==False:
         otra=input("Quieres calcular otra media aritmetica? (Si // No) ")
         if otra=="Si" or otra=="si" or otra=="sI" or otra=="SI" or otra=="S" or otra=="s":
