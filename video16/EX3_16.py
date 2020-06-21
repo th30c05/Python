@@ -21,3 +21,4 @@ if error == True or at > 1 or at < 1 or dot < 1:
     print("Incorrect Mail")
 else:
     print("Correct mail")
+    
